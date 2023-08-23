@@ -2,11 +2,11 @@
 title: 谢琦的博客
 email: ahxieqi@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  谢琦的博客
+  夏正的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://chiemon.github.io # the base hostname & protocol for your site
+url: https://xia.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: chiemon
+author: xia
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -15,8 +15,7 @@ recent_num: 20
 
 # Social account
 # twitter: chiemon
-weibo: chiemon777
-github: chiemon
+github: bobenxia
 # instagram: chiemon
 # linkedin: chiemon
 
@@ -26,12 +25,12 @@ favicon: /img/favicon.ico
 
 # comment config
 disqus:
-  shortname: chiemon
+  shortname: xia
 
 # google analytics config
-ga:
-  id: UA-134455385-1
-  url: chiemon.github.io
+#ga:
+#  id: UA-134455385-1
+#  url: chiemon.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html # 博文的固定链接

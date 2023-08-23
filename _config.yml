@@ -1,6 +1,6 @@
 # Site settings
-title: 谢琦的博客
-email: ahxieqi@163.com
+title: 夏正的博客
+email: xiazheng1996@126.com
 description: > # this means to ignore newlines until "baseurl:"
   夏正的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -14,10 +14,10 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-# twitter: chiemon
+# twitter:
 github: bobenxia
-# instagram: chiemon
-# linkedin: chiemon
+# instagram:
+# linkedin:
 
 # avatar and Favicon
 avatar: /img/chiemon-icon.jpg
